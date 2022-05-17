@@ -1,4 +1,4 @@
-#! /bin/bash/
+! /bin/bash/
 
 echo "Hopefully this writes a line of code to download something in Bash on a VM, we'll see how it goes."
 
